@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045450435502",
+    "firebase_url": "https://save-and-read-from-firebase-default-rtdb.firebaseio.com",
+    "project_id": "save-and-read-from-firebase",
+    "storage_bucket": "save-and-read-from-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045450435502:android:033994c8bae114cf9cf63f",
+        "android_client_info": {
+          "package_name": "com.gma.saveandreaddatafromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045450435502-u1foi5usas13qck6l28ma4383b3mheij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-x7tFL-EVUP470LcExvdeyheCRCov5-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045450435502-u1foi5usas13qck6l28ma4383b3mheij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
